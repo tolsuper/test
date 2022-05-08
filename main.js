@@ -19,3 +19,4 @@ let appData = {
 
 alert('Ваш бюджет на 1 день равен '+money / 30+' тугрикам');
 console.log(appData);
+console.log(typeof appData.timeData);
